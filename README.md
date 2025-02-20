@@ -1,2 +1,4 @@
-# CqrsBasedCommunication_Demo
-CQRS based communication between 2 .net web api microservices hosted on docker.
+# CqrsBasedCommunication_Demo 
+Command / Query communication inside a service using MediatR library to achievie loosely coupling between controller and inner logic services.
+
+# TODO: add example implementation
